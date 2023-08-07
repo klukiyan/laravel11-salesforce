@@ -13,7 +13,7 @@ _(Laravel 7 Salesforce Package can be found [here](https://github.com/khachik199
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/004992d1-90a7-4bd6-9dae-2d8b541386ae/small.png)](https://insight.sensiolabs.com/projects/004992d1-90a7-4bd6-9dae-2d8b541386ae)
 
 ## Major upgrade
-This package is intended to support both Laravel 7.0 LTS and 7.0+.
+This package is intended to support both Laravel 10.0 LTS and 10.0+.
 
 Laravel 10.1 package will be kept under version 1.*
 Laravel 10.2 package will be kept under version 2.*
@@ -25,7 +25,7 @@ It also fixes a too much consuming session at Salesforce, thus these new version
 ## Installation
 
 The Laravel 5 package can be installed via [Composer](http://getcomposer.org) by requiring the
-`khachik/laravel7-salesforce` package in your project's `composer.json`.
+`khachik/laravel10-salesforce` package in your project's `composer.json`.
 
 ```json
 {
