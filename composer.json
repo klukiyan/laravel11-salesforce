@@ -21,7 +21,7 @@
     "php": ">=8.1.0",
     "davispeixoto/force-dot-com-toolkit-for-php": "1.0.*",
     "illuminate/support": ">=10.10",
-    "vlucas/phpdotenv": "~5.5.0"
+    "vlucas/phpdotenv": ">=5.5.0"
   },
   "require-dev": {
     "laravel/framework": ">=10.0",
