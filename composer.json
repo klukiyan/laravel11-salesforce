@@ -1,12 +1,12 @@
 {
-  "name": "khachik/laravel10-salesforce",
-  "description": "Laravel 10 Salesforce Force.com PHP Toolkit port",
+  "name": "klukiyan/laravel11-salesforce",
+  "description": "Laravel 11 Salesforce Force.com PHP Toolkit port",
   "keywords": [
     "laravel",
     "salesforce",
     "crm",
     "force.com toolkit",
-    "laravel 10"
+    "laravel 11"
   ],
   "license": "MIT",
   "authors": [
